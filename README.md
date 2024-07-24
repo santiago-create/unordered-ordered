@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://santiago-create.github.io/working-with-text/)
+[Live Demo Link](https://santiago-create.github.io/unordered-ordered/)
 
 ## Getting Started
 
