@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/santiago-create/working-with-text/issues).
+Feel free to check the [issues page](https://github.com/santiago-create/unordered-ordered/issues).
 
 ## Show your support
 
